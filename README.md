@@ -12,3 +12,6 @@ TODO need to figure out
 
 # Starting point for Gulp
 TODO need to figure out
+
+# Sample application for creating skeleton project
+https://github.com/sabarasaba/modern-backbone-starterkit
